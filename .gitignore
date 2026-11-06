@@ -1,0 +1,10 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Base de datos local
+sggma.db
+
+# Entornos virtuales
+venv/
+env/
